@@ -1,0 +1,11 @@
+id = "purescript-iris"
+name = "PureScript Iris"
+description = "Iris language server support for PureScript."
+version = "0.0.1"
+schema_version = 1
+authors = ["Jens Krause <sectore@gmail.com>"]
+repository = "https://github.com/sectore/purescript-iris-zed"
+
+[language_servers.iris]
+name = "Iris"
+languages = ["PureScript"]
